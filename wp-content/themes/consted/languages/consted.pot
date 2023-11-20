@@ -1,0 +1,3407 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Consted Pro\n"
+"POT-Creation-Date: 2022-03-14 04:11-0700\n"
+"PO-Revision-Date: 2022-03-14 04:10-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:20 inc/class/class-header.php:376
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:83
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:88
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:94
+msgid "Website"
+msgstr ""
+
+#: comments.php:97
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: comments.php:102
+msgid "Comment"
+msgstr ""
+
+#: comments.php:107
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:110
+msgid "Your email address will not be published. Required fields are marked *."
+msgstr ""
+
+#: inc/class/class-footer.php:85
+#, php-format
+msgid "Copyright &copy; %1$s %2$s. All Right Reserved."
+msgstr ""
+
+#: inc/class/class-footer.php:85
+msgctxt "copyright date format"
+msgid "Y"
+msgstr ""
+
+#: inc/class/class-footer.php:101
+#, php-format
+msgid " %1$s By aThemeArt - Proudly Powered by WordPress ."
+msgstr ""
+
+#: inc/class/class-footer.php:101
+msgctxt "credit - theme"
+msgid "Consted theme"
+msgstr ""
+
+#: inc/class/class-header.php:59
+msgid "Skip to content"
+msgstr ""
+
+#: inc/class/class-header.php:147
+msgid "Sidebar"
+msgstr ""
+
+#: inc/class/class-header.php:372
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/class/class-post-related.php:283
+msgid "Previous Posts"
+msgstr ""
+
+#: inc/class/class-post-related.php:284
+msgid "Next Posts"
+msgstr ""
+
+#: inc/class/class-post-related.php:285
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/class/class-post-related.php:298 templates/project-template.php:109
+msgid "&nbsp;"
+msgstr ""
+
+#: inc/class/class-post-related.php:581
+msgid "Previous Article"
+msgstr ""
+
+#: inc/class/class-post-related.php:592
+msgid "Next Article"
+msgstr ""
+
+#: inc/class/class-template-tags.php:46
+msgid "By : "
+msgstr ""
+
+#: inc/class/class-template-tags.php:132
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class/class-template-tags.php:154
+msgid "Tags"
+msgstr ""
+
+#: inc/class/class-template-tags.php:174
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/class/class-template-tags.php:177
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/class/class-template-tags.php:180
+msgid "Share on Stumbleupon"
+msgstr ""
+
+#: inc/class/class-template-tags.php:183
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: inc/class/class-template-tags.php:185
+msgid "Share on Pinterest"
+msgstr ""
+
+#: inc/default.php:28
+#, php-format
+msgid "Copyright &copy; %1$s %2$s All Right Reserved."
+msgstr ""
+
+#: inc/default.php:87
+msgid "Continue Reading "
+msgstr ""
+
+#: inc/default.php:234 inc/default.php:235 inc/default.php:237
+#: inc/default.php:239 inc/default.php:240 inc/options/localization.php:21
+#: inc/options/localization.php:28 inc/options/localization.php:56
+#: inc/options/localization.php:64
+msgid "Add to cart"
+msgstr ""
+
+#: inc/default.php:236 inc/default.php:241 inc/options/hero-section.php:87
+#: inc/options/hero-section.php:139
+msgid "Read More"
+msgstr ""
+
+#: inc/default.php:242 inc/options/localization.php:42
+#: inc/options/localization.php:80
+msgid "Select options"
+msgstr ""
+
+#: inc/default.php:244 inc/options/localization.php:99
+msgid "Added Compare"
+msgstr ""
+
+#: inc/default.php:245 inc/options/localization.php:105
+msgid "Product already in compare"
+msgstr ""
+
+#: inc/default.php:246 inc/options/localization.php:111
+msgid "No products were added to the Compare"
+msgstr ""
+
+#: inc/default.php:248
+msgid "Added wishlist"
+msgstr ""
+
+#: inc/default.php:249 inc/options/localization.php:130
+msgid "Product already in wishlist"
+msgstr ""
+
+#: inc/default.php:250 inc/options/localization.php:137
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: inc/default.php:251 inc/options/localization.php:93
+msgid "Add to compare"
+msgstr ""
+
+#: inc/default.php:252 inc/options/localization.php:118
+msgid "Add to wishlist"
+msgstr ""
+
+#: inc/default.php:267
+msgid "Simple and Easy Wordpress Theme"
+msgstr ""
+
+#: inc/default.php:268
+msgid ""
+"Our success depends on the strength of our team. Lorem ipsum dolor sit amet, "
+"consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et "
+"dolore magna aliqua. Ut enim ad minim veniam, nostrud "
+"exercitation.                            "
+msgstr ""
+
+#: inc/default.php:269
+msgid "Contact us"
+msgstr ""
+
+#: inc/default.php:271
+msgid "BUY NOW"
+msgstr ""
+
+#: inc/default.php:294
+msgid " Your Trusted 24 Hours Service Provider!"
+msgstr ""
+
+#: inc/default.php:321 inc/options/localization.php:145
+msgid "Share this product"
+msgstr ""
+
+#. Description of the plugin/theme
+#: inc/default.php:324 inc/options/localization.php:152
+#: vendors/consted/elements/accordion.php:56
+#: vendors/consted/elements/athemeart-icon-box.php:82
+#: vendors/consted/elements/athemeart-testimonials.php:96
+#: vendors/consted/elements/service-box-2.php:56
+#: vendors/consted/elements/service-box.php:56
+msgid "Description"
+msgstr ""
+
+#: inc/default.php:326 inc/options/localization.php:159
+msgid "Additional information"
+msgstr ""
+
+#: inc/default.php:353 vendors/consted/elements/athemeart-price-table-2.php:139
+#: vendors/consted/elements/athemeart-price-table.php:139
+msgid "Feature"
+msgstr ""
+
+#: inc/default.php:354
+msgid "Download Brochure"
+msgstr ""
+
+#: inc/meta-options.php:46 inc/options/meta-options.php:54
+msgid "Enable Hero Sections"
+msgstr ""
+
+#: inc/meta-options.php:49 inc/options/meta-options.php:57
+msgid "Inherit"
+msgstr ""
+
+#: inc/meta-options.php:50 inc/options/meta-options.php:58
+msgid "hide"
+msgstr ""
+
+#: inc/meta-options.php:51 inc/options/meta-options.php:59
+msgid "show"
+msgstr ""
+
+#: inc/meta-options.php:53 inc/options/meta-options.php:61
+msgid "choose inherit to get theme options settings."
+msgstr ""
+
+#: inc/meta-options.php:59 inc/options/meta-options.php:68
+msgid "Sub Heading"
+msgstr ""
+
+#: inc/meta-options.php:65 inc/meta-options.php:103
+#: inc/options/hero-section.php:268 inc/options/meta-options.php:74
+#: inc/options/meta-options.php:112
+msgid "Hero Block Color"
+msgstr ""
+
+#: inc/meta-options.php:66 inc/meta-options.php:79 inc/meta-options.php:104
+#: inc/meta-options.php:117 inc/options/meta-options.php:75
+#: inc/options/meta-options.php:88 inc/options/meta-options.php:113
+#: inc/options/meta-options.php:127
+msgid "Leave empty to inherit theme option"
+msgstr ""
+
+#: inc/meta-options.php:78 inc/meta-options.php:116
+#: inc/options/hero-section.php:294 inc/options/meta-options.php:87
+#: inc/options/meta-options.php:126
+msgid "Hero Block Background"
+msgstr ""
+
+#: inc/options/blog-options.php:6
+msgid "Blog Options"
+msgstr ""
+
+#: inc/options/blog-options.php:16
+msgid "Archive / Blog"
+msgstr ""
+
+#: inc/options/blog-options.php:17
+msgid ""
+"This contains common setting options which will be applied to the whole site "
+"blog ( archive, category, tags, blog  ect)"
+msgstr ""
+
+#: inc/options/blog-options.php:23
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/options/blog-options.php:26 inc/options/blog-options.php:196
+#: inc/options/page-layout.php:31 inc/options/woocommerce.php:55
+#: inc/options/woocommerce.php:245
+msgid "Primary Sidebar / Content"
+msgstr ""
+
+#: inc/options/blog-options.php:27 inc/options/blog-options.php:197
+#: inc/options/page-layout.php:32 inc/options/woocommerce.php:56
+#: inc/options/woocommerce.php:246
+msgid "Content / Primary Sidebar"
+msgstr ""
+
+#: inc/options/blog-options.php:28 inc/options/blog-options.php:198
+#: inc/options/page-layout.php:33 inc/options/woocommerce.php:57
+#: inc/options/woocommerce.php:247
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/options/blog-options.php:29 inc/options/blog-options.php:199
+#: inc/options/page-layout.php:34 inc/options/woocommerce.php:58
+#: inc/options/woocommerce.php:248
+msgid "Full Container"
+msgstr ""
+
+#: inc/options/blog-options.php:31
+msgid "The options create your theme's blog / archive / category page layout."
+msgstr ""
+
+#: inc/options/blog-options.php:38
+msgid "Blog Template Layout"
+msgstr ""
+
+#: inc/options/blog-options.php:51 inc/options/project.php:34
+#: inc/options/service.php:33
+msgid "Desktop Columns "
+msgstr ""
+
+#: inc/options/blog-options.php:54 inc/options/blog-options.php:69
+#: inc/options/blog-options.php:83 inc/options/blog-options.php:267
+#: inc/options/blog-options.php:282 inc/options/blog-options.php:296
+#: inc/options/project.php:37 inc/options/project.php:52
+#: inc/options/project.php:67 inc/options/service.php:36
+#: inc/options/service.php:51 inc/options/service.php:66
+msgid "1 Column"
+msgstr ""
+
+#: inc/options/blog-options.php:55 inc/options/blog-options.php:70
+#: inc/options/blog-options.php:84 inc/options/blog-options.php:268
+#: inc/options/blog-options.php:283 inc/options/blog-options.php:297
+#: inc/options/project.php:38 inc/options/project.php:53
+#: inc/options/project.php:68 inc/options/service.php:37
+#: inc/options/service.php:52 inc/options/service.php:67
+msgid "2 Column"
+msgstr ""
+
+#: inc/options/blog-options.php:56 inc/options/blog-options.php:71
+#: inc/options/blog-options.php:85 inc/options/blog-options.php:269
+#: inc/options/blog-options.php:284 inc/options/blog-options.php:298
+#: inc/options/project.php:39 inc/options/project.php:54
+#: inc/options/project.php:69 inc/options/service.php:38
+#: inc/options/service.php:53 inc/options/service.php:68
+msgid "3 Column"
+msgstr ""
+
+#: inc/options/blog-options.php:57 inc/options/blog-options.php:72
+#: inc/options/blog-options.php:86 inc/options/blog-options.php:270
+#: inc/options/blog-options.php:285 inc/options/blog-options.php:299
+#: inc/options/project.php:40 inc/options/project.php:55
+#: inc/options/project.php:70 inc/options/service.php:39
+#: inc/options/service.php:54 inc/options/service.php:69
+msgid "4 Column"
+msgstr ""
+
+#: inc/options/blog-options.php:59 inc/options/project.php:42
+#: inc/options/service.php:41
+msgid "Set up grids layout for desktop."
+msgstr ""
+
+#: inc/options/blog-options.php:66 inc/options/project.php:49
+#: inc/options/service.php:48
+msgid "Tablet Columns "
+msgstr ""
+
+#: inc/options/blog-options.php:74 inc/options/project.php:57
+#: inc/options/service.php:56
+msgid "Set up grids layout for tablet."
+msgstr ""
+
+#: inc/options/blog-options.php:80 inc/options/project.php:64
+#: inc/options/service.php:63
+msgid "Phone Columns "
+msgstr ""
+
+#: inc/options/blog-options.php:88 inc/options/project.php:73
+#: inc/options/service.php:72
+msgid "Set up grids layout for phone."
+msgstr ""
+
+#: inc/options/blog-options.php:95 inc/options/hero-section.php:24
+msgid "Content Type"
+msgstr ""
+
+#: inc/options/blog-options.php:97
+msgid "excerpt"
+msgstr ""
+
+#: inc/options/blog-options.php:98
+msgid "content"
+msgstr ""
+
+#: inc/options/blog-options.php:99
+msgid "no content"
+msgstr ""
+
+#: inc/options/blog-options.php:105
+msgid "Select your theme's blog / archive / category posts loop content"
+msgstr ""
+
+#: inc/options/blog-options.php:111
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/options/blog-options.php:113
+msgid "default"
+msgstr ""
+
+#: inc/options/blog-options.php:114
+msgid "Number list"
+msgstr ""
+
+#: inc/options/blog-options.php:120
+msgid "Select Pagination Style for blog / archive / category"
+msgstr ""
+
+#: inc/options/blog-options.php:126 inc/options/blog-options.php:207
+msgid "Posts Meta"
+msgstr ""
+
+#: inc/options/blog-options.php:129 inc/options/blog-options.php:210
+msgid "Author Name"
+msgstr ""
+
+#: inc/options/blog-options.php:130 inc/options/blog-options.php:211
+#: vendors/consted/elements/athemeart-posts.php:144
+msgid "Posted Date"
+msgstr ""
+
+#: inc/options/blog-options.php:131 inc/options/blog-options.php:212
+msgid "Comment Count"
+msgstr ""
+
+#: inc/options/blog-options.php:132 inc/options/blog-options.php:213
+msgid "Categories"
+msgstr ""
+
+#: inc/options/blog-options.php:135 inc/options/blog-options.php:217
+msgid ""
+"Check to show post meta on  your blog ( archive, category, tags, blog, "
+"single )."
+msgstr ""
+
+#: inc/options/blog-options.php:141
+msgid "Archive heading Tag "
+msgstr ""
+
+#: inc/options/blog-options.php:144 inc/options/woocommerce.php:155
+#: inc/options/woocommerce.php:285
+msgid "H1"
+msgstr ""
+
+#: inc/options/blog-options.php:145 inc/options/woocommerce.php:156
+#: inc/options/woocommerce.php:286
+msgid "H2"
+msgstr ""
+
+#: inc/options/blog-options.php:146 inc/options/woocommerce.php:157
+#: inc/options/woocommerce.php:287
+msgid "H3"
+msgstr ""
+
+#: inc/options/blog-options.php:147 inc/options/woocommerce.php:158
+#: inc/options/woocommerce.php:288
+msgid "H4"
+msgstr ""
+
+#: inc/options/blog-options.php:148 inc/options/woocommerce.php:159
+#: inc/options/woocommerce.php:289
+msgid "H5"
+msgstr ""
+
+#: inc/options/blog-options.php:149 inc/options/woocommerce.php:160
+#: inc/options/woocommerce.php:290
+msgid "H6"
+msgstr ""
+
+#: inc/options/blog-options.php:164
+msgid "Custom Blog Title"
+msgstr ""
+
+#: inc/options/blog-options.php:169
+msgid "Custom Blog Description"
+msgstr ""
+
+#: inc/options/blog-options.php:186
+msgid "Single"
+msgstr ""
+
+#: inc/options/blog-options.php:193
+msgid "Single Posts Layout "
+msgstr ""
+
+#: inc/options/blog-options.php:202
+msgid "The options create your theme's blog Single posts."
+msgstr ""
+
+#: inc/options/blog-options.php:214
+msgid "Tag"
+msgstr ""
+
+#: inc/options/blog-options.php:223
+msgid "Featured Image on Single Post"
+msgstr ""
+
+#: inc/options/blog-options.php:224 inc/options/blog-options.php:240
+msgid "turn on to show."
+msgstr ""
+
+#: inc/options/blog-options.php:225
+msgid "Use this button if you want to show/hide the Featured Image."
+msgstr ""
+
+#: inc/options/blog-options.php:231
+msgid "Social Share Links"
+msgstr ""
+
+#: inc/options/blog-options.php:233
+msgid ""
+"By enabling this feature your visitors can share the post to social networks "
+"such as Facebook, Twitter and....."
+msgstr ""
+
+#: inc/options/blog-options.php:239
+msgid "Next and Previous post"
+msgstr ""
+
+#: inc/options/blog-options.php:241
+msgid "Use this button if you want to display next / previous button."
+msgstr ""
+
+#: inc/options/blog-options.php:248
+msgid "Post Authorbox"
+msgstr ""
+
+#: inc/options/blog-options.php:250
+msgid "This feature shows a picture of post author and their info."
+msgstr ""
+
+#: inc/options/blog-options.php:256
+msgid "Related Posts"
+msgstr ""
+
+#: inc/options/blog-options.php:258
+msgid "Use this button if you want to display related posts."
+msgstr ""
+
+#: inc/options/blog-options.php:264 inc/options/blog-options.php:279
+msgid "Related Posts Column"
+msgstr ""
+
+#: inc/options/blog-options.php:287
+msgid "Tablet grids."
+msgstr ""
+
+#: inc/options/blog-options.php:293
+msgid "Related Posts Columns "
+msgstr ""
+
+#: inc/options/blog-options.php:301
+msgid "Phone grids"
+msgstr ""
+
+#: inc/options/blog-options.php:308
+msgid "Related Post limit"
+msgstr ""
+
+#: inc/options/blog-options.php:316
+msgid "Ads / Google AdSense"
+msgstr ""
+
+#: inc/options/blog-options.php:317
+msgid "Write down Google AdSense code in the following field."
+msgstr ""
+
+#: inc/options/blog-options.php:323
+msgid "Show AdSense after post."
+msgstr ""
+
+#: inc/options/blog-options.php:330
+msgid "Show AdSense before post.."
+msgstr ""
+
+#: inc/options/footer.php:7 inc/theme-core.php:191
+msgid "Footer"
+msgstr ""
+
+#: inc/options/footer.php:8
+msgid ""
+"This contains common setting options which will be applied to the whole site "
+"footer."
+msgstr ""
+
+#: inc/options/footer.php:14
+msgid "Footer Background Image / Color."
+msgstr ""
+
+#: inc/options/footer.php:15
+msgid "Choose a color for footer background."
+msgstr ""
+
+#: inc/options/footer.php:22
+msgid "Widgets columns ( Desktops )"
+msgstr ""
+
+#: inc/options/footer.php:24 inc/options/footer.php:39
+#: inc/options/footer.php:56 inc/options/woocommerce.php:103
+#: inc/options/woocommerce.php:121 inc/options/woocommerce.php:138
+#: inc/options/woocommerce.php:356
+msgid "1 Columns"
+msgstr ""
+
+#: inc/options/footer.php:25 inc/options/footer.php:40
+#: inc/options/footer.php:57 inc/options/woocommerce.php:104
+#: inc/options/woocommerce.php:122 inc/options/woocommerce.php:139
+#: inc/options/woocommerce.php:357
+msgid "2 Columns"
+msgstr ""
+
+#: inc/options/footer.php:26 inc/options/footer.php:41
+#: inc/options/footer.php:58 inc/options/woocommerce.php:105
+#: inc/options/woocommerce.php:123 inc/options/woocommerce.php:358
+msgid "3 Columns"
+msgstr ""
+
+#: inc/options/footer.php:27 inc/options/footer.php:42
+#: inc/options/footer.php:59 inc/options/woocommerce.php:106
+#: inc/options/woocommerce.php:124 inc/options/woocommerce.php:359
+msgid "4 Columns"
+msgstr ""
+
+#: inc/options/footer.php:31
+msgid "Select a Footer widgets columns Layout for Laptops & Desktops."
+msgstr ""
+
+#: inc/options/footer.php:37
+msgid "Widgets columns ( Tablets )"
+msgstr ""
+
+#: inc/options/footer.php:46
+msgid "Select a Footer widgets columns Layout for Tablets."
+msgstr ""
+
+#: inc/options/footer.php:54
+msgid "Widgets columns ( Phones )"
+msgstr ""
+
+#: inc/options/footer.php:63
+msgid "Select a Footer widgets columns Layout for Phones."
+msgstr ""
+
+#: inc/options/footer.php:71
+msgid "Widgets Text Color"
+msgstr ""
+
+#: inc/options/footer.php:72 inc/options/footer.php:86
+#: inc/options/header.php:107 inc/options/header.php:113
+#: inc/options/header.php:127 inc/options/header.php:133
+#: inc/options/styling-options.php:19 inc/options/styling-options.php:26
+#: inc/options/styling-options.php:34 inc/options/styling-options.php:41
+msgid "The theme comes with unlimited color schemes for your theme's styling."
+msgstr ""
+
+#: inc/options/footer.php:93
+msgid ""
+"You can change or remove our link from footer and use your own custom text. "
+"(Link back is always appreciated)"
+msgstr ""
+
+#: inc/options/footer.php:103
+msgid "Disable Back to top button "
+msgstr ""
+
+#: inc/options/footer.php:105 inc/options/footer.php:113
+msgid "Disable theme development cadires in footer."
+msgstr ""
+
+#: inc/options/footer.php:111
+msgid "Disable developer cadires "
+msgstr ""
+
+#: inc/options/general_settings.php:11
+msgid "General Settings."
+msgstr ""
+
+#: inc/options/general_settings.php:14
+msgid ""
+"This tab contains common setting options which will be applied to the whole "
+"theme."
+msgstr ""
+
+#: inc/options/general_settings.php:22 inc/options/widgets.php:23
+msgid "Site Logo"
+msgstr ""
+
+#: inc/options/general_settings.php:23 inc/options/widgets.php:24
+msgid "Upload your site logo."
+msgstr ""
+
+#: inc/options/general_settings.php:30
+msgid "Favicon"
+msgstr ""
+
+#: inc/options/general_settings.php:31
+msgid "http://www.favicon.cc/"
+msgstr ""
+
+#: inc/options/general_settings.php:31
+msgid ""
+"Upload a 16 x 16 px image that will represent your website's favicon. You "
+"can refer to this link for more information on how to make it: <a href=\""
+msgstr ""
+
+#: inc/options/general_settings.php:41
+msgid "Web Site background or color"
+msgstr ""
+
+#: inc/options/general_settings.php:48
+msgid "Container Width"
+msgstr ""
+
+#: inc/options/general_settings.php:50
+msgid ""
+"You can define the width of the Container in desktop view. ( Example: 1170px "
+"or 100% )"
+msgstr ""
+
+#: inc/options/general_settings.php:58
+msgid ""
+"Enter the code which you need to place <strong>before closing  tag</strong>. "
+"(ex: Google Webmaster Tools verification, Bing Webmaster Center, BuySellAds "
+"Script, Alexa verification etc.)"
+msgstr ""
+
+#: inc/options/general_settings.php:68
+msgid ""
+"Enter the codes which you need to place in your footer. <strong>(ex: Google "
+"Analytics, Clicky, STATCOUNTER, Woopra, Histats, etc.)</strong>."
+msgstr ""
+
+#: inc/options/header.php:6
+msgid "Header Settings"
+msgstr ""
+
+#: inc/options/header.php:17
+msgid ""
+"This tab contains common setting options which will be applied to the whole "
+"theme header."
+msgstr ""
+
+#: inc/options/header.php:24
+msgid "Top bar Content."
+msgstr ""
+
+#: inc/options/header.php:25
+msgid "leve empty to hide the topbar"
+msgstr ""
+
+#: inc/options/header.php:45
+msgid "Top Bar Background"
+msgstr ""
+
+#: inc/options/header.php:46
+msgid "Choose a Background color or image for top Bar."
+msgstr ""
+
+#: inc/options/header.php:52
+msgid "Header Background."
+msgstr ""
+
+#: inc/options/header.php:53
+msgid "Choose a Background color or image for Header."
+msgstr ""
+
+#: inc/options/header.php:68
+msgid "Menu Options."
+msgstr ""
+
+#: inc/options/header.php:71
+msgid ""
+"Control the visual appearance of your theme header part, such as colors, "
+"layout and patterns, from here."
+msgstr ""
+
+#: inc/options/header.php:78
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/options/header.php:80 inc/options/header.php:87
+msgid "Use this button if you want to disable Sticky Menu."
+msgstr ""
+
+#: inc/options/header.php:85
+msgid "Menu Sidebar icon"
+msgstr ""
+
+#: inc/options/header.php:93
+msgid "Menu hover Style "
+msgstr ""
+
+#: inc/options/header.php:96
+msgid "Underline "
+msgstr ""
+
+#: inc/options/header.php:97
+msgid "Navbar fill"
+msgstr ""
+
+#: inc/options/header.php:98 vendors/consted/elements/count-down.php:120
+#: vendors/consted/elements/count-down.php:128
+#: vendors/consted/elements/heading.php:259
+#: vendors/consted/elements/icon-button.php:74
+#: vendors/consted/elements/icon-button.php:82
+#: vendors/consted/elements/icon-button.php:119
+#: vendors/consted/elements/project-carousel.php:114
+#: vendors/consted/elements/project-posts.php:98
+#: vendors/consted/elements/project-sideshow.php:118
+#: vendors/consted/elements/section_title.php:261
+#: vendors/consted/elements/service-box-2.php:131
+#: vendors/consted/elements/service-box-post.php:98
+#: vendors/consted/elements/service-box.php:193
+msgid "Color"
+msgstr ""
+
+#: inc/options/header.php:100 inc/options/page-layout.php:36
+#: inc/options/project.php:20 inc/options/service.php:19
+msgid "The options create your theme's page layout."
+msgstr ""
+
+#: inc/options/header.php:105
+msgid "Main Menu Color"
+msgstr ""
+
+#: inc/options/header.php:112
+msgid "Main Menu background"
+msgstr ""
+
+#: inc/options/header.php:120
+msgid "Drop download / submenu Settings"
+msgstr ""
+
+#: inc/options/header.php:125
+msgid "Sub Menu Color"
+msgstr ""
+
+#: inc/options/header.php:132
+msgid "Submenu background"
+msgstr ""
+
+#: inc/options/header.php:136 vendors/consted/elements/heading.php:158
+#: vendors/consted/elements/section_title.php:151
+msgid "Normal"
+msgstr ""
+
+#: inc/options/header.php:137 vendors/consted/elements/icon-button.php:111
+msgid "Hover"
+msgstr ""
+
+#: inc/options/header.php:146
+msgid "Main Menu Typography"
+msgstr ""
+
+#: inc/options/header.php:152
+msgid "Select Main Menu font,size,line-height etc."
+msgstr ""
+
+#: inc/options/hero-section.php:6
+msgid "Hero Sections"
+msgstr ""
+
+#: inc/options/hero-section.php:16
+msgid "Home Page"
+msgstr ""
+
+#: inc/options/hero-section.php:17 inc/options/hero-section.php:234
+msgid ""
+"This contains common setting options which will be applied to the Static "
+"Front Page Hero section / hero widgets."
+msgstr ""
+
+#: inc/options/hero-section.php:30 inc/options/hero-section.php:194
+#: inc/options/hero-section.php:286
+msgid "Choose Content type for home page hero"
+msgstr ""
+
+#: inc/options/hero-section.php:37
+msgid "Hero sections height"
+msgstr ""
+
+#: inc/options/hero-section.php:40 inc/options/hero-section.php:252
+msgid "20%"
+msgstr ""
+
+#: inc/options/hero-section.php:41 inc/options/hero-section.php:253
+msgid "30%"
+msgstr ""
+
+#: inc/options/hero-section.php:42 inc/options/hero-section.php:254
+msgid "40%"
+msgstr ""
+
+#: inc/options/hero-section.php:43 inc/options/hero-section.php:255
+msgid "50%"
+msgstr ""
+
+#: inc/options/hero-section.php:44 inc/options/hero-section.php:256
+msgid "60%"
+msgstr ""
+
+#: inc/options/hero-section.php:45 inc/options/hero-section.php:257
+msgid "70%"
+msgstr ""
+
+#: inc/options/hero-section.php:46 inc/options/hero-section.php:258
+msgid "80%"
+msgstr ""
+
+#: inc/options/hero-section.php:47 inc/options/hero-section.php:259
+msgid "90%"
+msgstr ""
+
+#: inc/options/hero-section.php:48 inc/options/hero-section.php:260
+msgid "100%"
+msgstr ""
+
+#: inc/options/hero-section.php:50 inc/options/hero-section.php:262
+msgid "Choose content height of hero sections screen"
+msgstr ""
+
+#: inc/options/hero-section.php:57
+msgid "Home Page Slider"
+msgstr ""
+
+#: inc/options/hero-section.php:59
+msgid "add a side"
+msgstr ""
+
+#: inc/options/hero-section.php:60
+msgid "slider"
+msgstr ""
+
+#: inc/options/hero-section.php:62
+msgid "Create your own sliders"
+msgstr ""
+
+#: inc/options/hero-section.php:69 vendors/consted/elements/accordion.php:48
+#: vendors/consted/elements/athemeart-icon-box.php:73
+#: vendors/consted/elements/athemeart-price-table-2.php:55
+#: vendors/consted/elements/athemeart-price-table-2.php:57
+#: vendors/consted/elements/athemeart-price-table.php:55
+#: vendors/consted/elements/athemeart-price-table.php:57
+#: vendors/consted/elements/count-down.php:51
+#: vendors/consted/elements/heading.php:39
+#: vendors/consted/elements/heading.php:46
+#: vendors/consted/elements/icon-button.php:46
+#: vendors/consted/elements/logo-showcase.php:47
+#: vendors/consted/elements/project-carousel.php:47
+#: vendors/consted/elements/project-sideshow.php:51
+#: vendors/consted/elements/section_title.php:39
+#: vendors/consted/elements/section_title.php:46
+#: vendors/consted/elements/service-box-2.php:48
+#: vendors/consted/elements/service-box.php:48
+msgid "Title"
+msgstr ""
+
+#: inc/options/hero-section.php:75 inc/options/hero-section.php:119
+msgid "Image"
+msgstr ""
+
+#: inc/options/hero-section.php:81
+msgid "Caption Text"
+msgstr ""
+
+#: inc/options/hero-section.php:86 inc/options/hero-section.php:138
+#: vendors/consted/elements/athemeart-price-table-2.php:195
+#: vendors/consted/elements/athemeart-price-table.php:195
+msgid "Button Text"
+msgstr ""
+
+#: inc/options/hero-section.php:92 inc/options/hero-section.php:144
+msgid "Button URL"
+msgstr ""
+
+#: inc/options/hero-section.php:126
+msgid "Caption heading"
+msgstr ""
+
+#: inc/options/hero-section.php:131
+msgid "Caption Description"
+msgstr ""
+
+#: inc/options/hero-section.php:161
+msgid "Slider Autoplay Timeout"
+msgstr ""
+
+#: inc/options/hero-section.php:169
+#: vendors/consted/elements/logo-showcase.php:120
+#: vendors/consted/elements/project-posts.php:272
+#: vendors/consted/elements/service-box-2.php:274
+#: vendors/consted/elements/service-box-post.php:245
+#: vendors/consted/elements/service-box.php:284
+msgid "Slider Smart speed"
+msgstr ""
+
+#: inc/options/hero-section.php:177
+msgid "Pause on hover "
+msgstr ""
+
+#: inc/options/hero-section.php:188 inc/options/hero-section.php:280
+msgid "Text Align"
+msgstr ""
+
+#: inc/options/hero-section.php:200
+msgid "Text Color"
+msgstr ""
+
+#: inc/options/hero-section.php:202
+#: vendors/consted/elements/athemeart-icon-box.php:219
+msgid "Heading"
+msgstr ""
+
+#: inc/options/hero-section.php:203
+#: vendors/consted/elements/athemeart-icon-box.php:235
+#: vendors/consted/elements/athemeart-price-table-2.php:137
+#: vendors/consted/elements/athemeart-price-table.php:137
+msgid "Text"
+msgstr ""
+
+#: inc/options/hero-section.php:220 inc/options/hero-section.php:311
+msgid "Overlay background Color"
+msgstr ""
+
+#: inc/options/hero-section.php:221 inc/options/hero-section.php:312
+msgid "leave empty to hide the background color"
+msgstr ""
+
+#: inc/options/hero-section.php:233
+msgid "Common Page"
+msgstr ""
+
+#: inc/options/hero-section.php:241
+msgid "The options turn off / on hero section from page."
+msgstr ""
+
+#: inc/options/hero-section.php:249
+msgid "Page Hero height"
+msgstr ""
+
+#: inc/options/localization.php:7
+msgid "Localization"
+msgstr ""
+
+#: inc/options/localization.php:15
+msgid "Change the \"add to cart\" button label on archive / shop page"
+msgstr ""
+
+#: inc/options/localization.php:30
+msgid ""
+"This will change the \"add to cart\" label on grouped products that are "
+"shown on the archive page."
+msgstr ""
+
+#: inc/options/localization.php:35 inc/options/localization.php:72
+msgid "Buy Now"
+msgstr ""
+
+#: inc/options/localization.php:50
+msgid ""
+"Change the \"add to cart\" button label on single product pages (per product "
+"type)"
+msgstr ""
+
+#: inc/options/localization.php:66
+msgid ""
+"This will change the \"add to cart\" label on grouped products that are "
+"shown on the single product page."
+msgstr ""
+
+#: inc/options/localization.php:88
+msgid "consted theme text"
+msgstr ""
+
+#: inc/options/localization.php:124
+msgid "Added Wishlist"
+msgstr ""
+
+#: inc/options/meta-options.php:150
+msgid "Category Icon"
+msgstr ""
+
+#: inc/options/meta-options.php:151
+msgid "optional"
+msgstr ""
+
+#: inc/options/nav-options.php:21
+msgid "Menu Icon"
+msgstr ""
+
+#: inc/options/page-layout.php:10
+msgid "Page Settings"
+msgstr ""
+
+#: inc/options/page-layout.php:21
+msgid "Page"
+msgstr ""
+
+#: inc/options/page-layout.php:22 inc/options/page-layout.php:50
+msgid ""
+"This contains common setting options which will be applied to the whole site "
+"page."
+msgstr ""
+
+#: inc/options/page-layout.php:28
+msgid "Page Layout "
+msgstr ""
+
+#: inc/options/page-layout.php:49
+msgid "404 Page"
+msgstr ""
+
+#: inc/options/project.php:6
+msgid "Porject Options"
+msgstr ""
+
+#: inc/options/project.php:9
+msgid ""
+"This contains common setting options which will be applied to the whole "
+"project section ( archive, category, tags, blog  ect)"
+msgstr ""
+
+#: inc/options/project.php:17
+msgid "Project Archive Page"
+msgstr ""
+
+#: inc/options/project.php:26
+msgid "Number of post show project page"
+msgstr ""
+
+#: inc/options/project.php:80
+msgid "Project Archive Title Prefix"
+msgstr ""
+
+#: inc/options/project.php:82
+msgid ""
+"Use this button if you want to remove Archive Title ( Project Category: )."
+msgstr ""
+
+#: inc/options/project.php:87
+msgid "Show Category filter"
+msgstr ""
+
+#: inc/options/project.php:89
+msgid "Use this button if you want to disable Category filter."
+msgstr ""
+
+#: inc/options/project.php:95
+msgid "Project URL"
+msgstr ""
+
+#: inc/options/project.php:104
+msgid "Project Category URL"
+msgstr ""
+
+#: inc/options/rewrite-url.php:6
+msgid "Rewrite URL"
+msgstr ""
+
+#: inc/options/rewrite-url.php:13
+msgid "Casions URL"
+msgstr ""
+
+#: inc/options/rewrite-url.php:22
+msgid "Casions Category URL"
+msgstr ""
+
+#: inc/options/rewrite-url.php:31
+msgid "Casions Tags"
+msgstr ""
+
+#: inc/options/rewrite-url.php:42
+msgid "Game URL"
+msgstr ""
+
+#: inc/options/rewrite-url.php:51
+msgid "Game Category URL"
+msgstr ""
+
+#: inc/options/rewrite-url.php:60
+msgid "Game Tags"
+msgstr ""
+
+#: inc/options/rewrite-url.php:71
+msgid "Coupons Brand URL"
+msgstr ""
+
+#: inc/options/rewrite-url.php:80
+msgid "Coupons Category URL"
+msgstr ""
+
+#: inc/options/service.php:6
+msgid "Service Options"
+msgstr ""
+
+#: inc/options/service.php:9
+msgid ""
+"This contains common setting options which will be applied to the whole "
+"Service section"
+msgstr ""
+
+#: inc/options/service.php:16
+msgid "Service Archive Page"
+msgstr ""
+
+#: inc/options/service.php:25
+msgid "Number of post show Service page"
+msgstr ""
+
+#: inc/options/service.php:79
+msgid "Service URL"
+msgstr ""
+
+#: inc/options/service.php:90
+msgid "Text ( Feature )"
+msgstr ""
+
+#: inc/options/service.php:97
+msgid "Text ( Download Brochure ) "
+msgstr ""
+
+#: inc/options/styling-options.php:8
+msgid "Styling Options."
+msgstr ""
+
+#: inc/options/styling-options.php:11
+msgid ""
+"Control the visual appearance of your theme, such as colors, layout and "
+"patterns, from here."
+msgstr ""
+
+#: inc/options/styling-options.php:18
+msgid "Primary Color Scheme"
+msgstr ""
+
+#: inc/options/styling-options.php:25
+msgid "Secondary Color Scheme"
+msgstr ""
+
+#: inc/options/styling-options.php:33
+msgid "Tertiary Color Scheme"
+msgstr ""
+
+#: inc/options/styling-options.php:40
+msgid "Quaternary Color Scheme"
+msgstr ""
+
+#: inc/options/taxonomy_options_xyz.php:24
+msgid "Category Image"
+msgstr ""
+
+#: inc/options/typography.php:7
+msgid "Typography."
+msgstr ""
+
+#: inc/options/typography.php:21
+msgid "Select body font and body font,size,line_height etc."
+msgstr ""
+
+#: inc/options/typography.php:33
+msgid "Select min page heading or hero block font size,line_height etc."
+msgstr ""
+
+#: inc/options/typography.php:38
+msgid "H1 Tags Font"
+msgstr ""
+
+#: inc/options/typography.php:46
+msgid "The options apply whole h1 etc, and font size will base on bootstrap"
+msgstr ""
+
+#: inc/options/typography.php:51
+msgid "H2 Tags Font"
+msgstr ""
+
+#: inc/options/typography.php:59
+msgid "The options apply whole h2 etc, and font size will base on bootstrap"
+msgstr ""
+
+#: inc/options/typography.php:64
+msgid "H3 Tags Font"
+msgstr ""
+
+#: inc/options/typography.php:72
+msgid "The options apply whole h3 etc, and font size will base on bootstrap"
+msgstr ""
+
+#: inc/options/typography.php:77
+msgid "H4 Tags Font"
+msgstr ""
+
+#: inc/options/typography.php:85
+msgid "The options apply whole h4 etc, and font size will base on bootstrap"
+msgstr ""
+
+#: inc/options/widgets.php:37
+msgid "Social Profiles."
+msgstr ""
+
+#: inc/options/widgets.php:38
+msgid "Add your Social Profiles and link"
+msgstr ""
+
+#: inc/options/woocommerce.php:6
+msgid "WooCommerce Options"
+msgstr ""
+
+#: inc/options/woocommerce.php:16
+#: vendors/consted/elements/athemeart-price-table-2.php:48
+#: vendors/consted/elements/athemeart-price-table.php:48
+msgid "General"
+msgstr ""
+
+#: inc/options/woocommerce.php:17
+msgid ""
+"This contains common setting options which will be applied to the woocommerce"
+msgstr ""
+
+#: inc/options/woocommerce.php:22
+msgid "Select Wishlist pages"
+msgstr ""
+
+#: inc/options/woocommerce.php:23 inc/options/woocommerce.php:31
+msgid "Select a page"
+msgstr ""
+
+#: inc/options/woocommerce.php:30
+msgid "Select Compare pages"
+msgstr ""
+
+#: inc/options/woocommerce.php:45
+msgid "Shop / Archive Page"
+msgstr ""
+
+#: inc/options/woocommerce.php:46
+msgid ""
+"This contains common setting options which will be applied to the whole site "
+"woocommerce ( archive, category, tags, blog  ect)"
+msgstr ""
+
+#: inc/options/woocommerce.php:52
+msgid "Shop / Archive Layout"
+msgstr ""
+
+#: inc/options/woocommerce.php:60 inc/options/woocommerce.php:87
+#: inc/options/woocommerce.php:208
+msgid ""
+"The options create your theme's WooCommerce shop /  archive / category page "
+"layout."
+msgstr ""
+
+#: inc/options/woocommerce.php:66
+msgid "Product filter"
+msgstr ""
+
+#: inc/options/woocommerce.php:68
+msgid "Grid/List Icon"
+msgstr ""
+
+#: inc/options/woocommerce.php:69
+msgid "Select Box"
+msgstr ""
+
+#: inc/options/woocommerce.php:70
+msgid "Filter by number"
+msgstr ""
+
+#: inc/options/woocommerce.php:71
+msgid "Showing results"
+msgstr ""
+
+#: inc/options/woocommerce.php:74 inc/options/woocommerce.php:223
+#: inc/options/woocommerce.php:314
+msgid "Check to show Product  on your shop page ( archive, category, tags)."
+msgstr ""
+
+#: inc/options/woocommerce.php:80
+msgid "Shop default view "
+msgstr ""
+
+#: inc/options/woocommerce.php:83
+msgid "Grid View"
+msgstr ""
+
+#: inc/options/woocommerce.php:84
+msgid "List View"
+msgstr ""
+
+#: inc/options/woocommerce.php:85
+msgid "Grid / Side image"
+msgstr ""
+
+#: inc/options/woocommerce.php:92
+msgid " Products per page"
+msgstr ""
+
+#: inc/options/woocommerce.php:94
+msgid "Controls the number of products that display per page. "
+msgstr ""
+
+#: inc/options/woocommerce.php:100
+msgid "Products per row ( Desktop  )"
+msgstr ""
+
+#: inc/options/woocommerce.php:107 inc/options/woocommerce.php:360
+msgid "5 Columns"
+msgstr ""
+
+#: inc/options/woocommerce.php:113
+msgid "The options update your product desktop grids Columns "
+msgstr ""
+
+#: inc/options/woocommerce.php:118
+msgid "Products per row ( tablet )"
+msgstr ""
+
+#: inc/options/woocommerce.php:130
+msgid "The options update your product tablet grids columns"
+msgstr ""
+
+#: inc/options/woocommerce.php:135
+msgid "Products per row ( phone )"
+msgstr ""
+
+#: inc/options/woocommerce.php:146
+msgid "The options update your product phone grids columns "
+msgstr ""
+
+#: inc/options/woocommerce.php:152
+msgid "Shop Loop Heading Tag"
+msgstr ""
+
+#: inc/options/woocommerce.php:161 inc/options/woocommerce.php:291
+msgid "div"
+msgstr ""
+
+#: inc/options/woocommerce.php:169
+msgid "Product title link"
+msgstr ""
+
+#: inc/options/woocommerce.php:171
+msgid "Turn on to active title link"
+msgstr ""
+
+#: inc/options/woocommerce.php:177
+msgid "Product elements"
+msgstr ""
+
+#: inc/options/woocommerce.php:179
+msgid "Rating"
+msgstr ""
+
+#: inc/options/woocommerce.php:180
+msgid "Sale flash"
+msgstr ""
+
+#: inc/options/woocommerce.php:181
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/options/woocommerce.php:182
+msgid "fly button group"
+msgstr ""
+
+#: inc/options/woocommerce.php:183
+msgid "Product Title"
+msgstr ""
+
+#: inc/options/woocommerce.php:184
+msgid "Product category"
+msgstr ""
+
+#: inc/options/woocommerce.php:185 inc/options/woocommerce.php:309
+msgid "Price"
+msgstr ""
+
+#: inc/options/woocommerce.php:186
+msgid "Color Swatch"
+msgstr ""
+
+#: inc/options/woocommerce.php:187 module/project/post-meta.php:8
+#: module/service/post-meta.php:20
+msgid "Gallery"
+msgstr ""
+
+#: inc/options/woocommerce.php:188
+msgid "Excerpt / Sort descriptions"
+msgstr ""
+
+#: inc/options/woocommerce.php:189
+msgid "Excerpt  only for list view"
+msgstr ""
+
+#: inc/options/woocommerce.php:190
+msgid "Add to Cart button"
+msgstr ""
+
+#: inc/options/woocommerce.php:194
+msgid "Check to show product elements ( archive, category, tags)."
+msgstr ""
+
+#: inc/options/woocommerce.php:200
+msgid "Product animation"
+msgstr ""
+
+#: inc/options/woocommerce.php:203
+msgid "None"
+msgstr ""
+
+#: inc/options/woocommerce.php:204
+msgid "Side Up"
+msgstr ""
+
+#: inc/options/woocommerce.php:205
+msgid "Zomming"
+msgstr ""
+
+#: inc/options/woocommerce.php:214
+msgid "Icon Button"
+msgstr ""
+
+#: inc/options/woocommerce.php:216
+msgid "Add To Cart"
+msgstr ""
+
+#: inc/options/woocommerce.php:217
+msgid "Quickview"
+msgstr ""
+
+#: inc/options/woocommerce.php:218
+msgid "Product Link"
+msgstr ""
+
+#: inc/options/woocommerce.php:219
+msgid "Product Wishlist"
+msgstr ""
+
+#: inc/options/woocommerce.php:220
+msgid "Product Compare"
+msgstr ""
+
+#: inc/options/woocommerce.php:235
+msgid "Single Product"
+msgstr ""
+
+#: inc/options/woocommerce.php:242
+msgid "Single Product Layout "
+msgstr ""
+
+#: inc/options/woocommerce.php:251
+msgid "The options create your theme's single product page."
+msgstr ""
+
+#: inc/options/woocommerce.php:257
+msgid "Product thumbnail / gallery"
+msgstr ""
+
+#: inc/options/woocommerce.php:260
+#: vendors/consted/elements/athemeart-icon-box.php:321
+#: vendors/consted/elements/athemeart-price-table.php:273
+#: vendors/consted/elements/heading.php:229
+#: vendors/consted/elements/section_title.php:231
+msgid "Left"
+msgstr ""
+
+#: inc/options/woocommerce.php:261
+#: vendors/consted/elements/athemeart-icon-box.php:329
+#: vendors/consted/elements/athemeart-price-table.php:281
+#: vendors/consted/elements/heading.php:237
+#: vendors/consted/elements/section_title.php:239
+msgid "Right"
+msgstr ""
+
+#: inc/options/woocommerce.php:263
+msgid "Choose the Product thumbnail / gallery possition."
+msgstr ""
+
+#: inc/options/woocommerce.php:268
+msgid "Description Tabs"
+msgstr ""
+
+#: inc/options/woocommerce.php:271
+msgid "Side Tabs"
+msgstr ""
+
+#: inc/options/woocommerce.php:272
+msgid "Top Tabs"
+msgstr ""
+
+#: inc/options/woocommerce.php:273
+msgid "Without Tabs"
+msgstr ""
+
+#: inc/options/woocommerce.php:277
+msgid ""
+"The options create your theme's  single product Description tabs layout."
+msgstr ""
+
+#: inc/options/woocommerce.php:282
+msgid "Single Product Title"
+msgstr ""
+
+#: inc/options/woocommerce.php:292
+#: vendors/consted/elements/athemeart-posts.php:135
+#: vendors/consted/elements/athemeart-posts.php:147
+#: vendors/consted/elements/athemeart-posts.php:159
+#: vendors/consted/elements/athemeart-posts.php:170
+#: vendors/consted/elements/logo-showcase.php:99
+#: vendors/consted/elements/logo-showcase.php:135
+#: vendors/consted/elements/project-posts.php:251
+#: vendors/consted/elements/project-posts.php:287
+#: vendors/consted/elements/service-box-2.php:253
+#: vendors/consted/elements/service-box-2.php:289
+#: vendors/consted/elements/service-box-post.php:224
+#: vendors/consted/elements/service-box-post.php:260
+#: vendors/consted/elements/service-box.php:263
+#: vendors/consted/elements/service-box.php:299
+msgid "Hide"
+msgstr ""
+
+#: inc/options/woocommerce.php:301
+msgid "Product Meta"
+msgstr ""
+
+#: inc/options/woocommerce.php:303
+msgid "Product SKU"
+msgstr ""
+
+#: inc/options/woocommerce.php:304
+msgid "Product Category"
+msgstr ""
+
+#: inc/options/woocommerce.php:305
+msgid "Product Tags"
+msgstr ""
+
+#: inc/options/woocommerce.php:306
+msgid "Stock Status"
+msgstr ""
+
+#: inc/options/woocommerce.php:307
+msgid "Share button"
+msgstr ""
+
+#: inc/options/woocommerce.php:308
+msgid "Product Rating & Comment"
+msgstr ""
+
+#: inc/options/woocommerce.php:310
+msgid "Add to Wishlist"
+msgstr ""
+
+#: inc/options/woocommerce.php:311
+msgid "Add to Compare"
+msgstr ""
+
+#: inc/options/woocommerce.php:320
+msgid "Display Related"
+msgstr ""
+
+#: inc/options/woocommerce.php:322
+msgid "Turn on to display Related Product."
+msgstr ""
+
+#: inc/options/woocommerce.php:327
+msgid "Show Upsell Product"
+msgstr ""
+
+#: inc/options/woocommerce.php:329
+msgid "Turn on to display Upsell Product."
+msgstr ""
+
+#: inc/options/woocommerce.php:335
+msgid "Show Cross sell product "
+msgstr ""
+
+#: inc/options/woocommerce.php:337
+msgid "Turn on to display Cross Sell Product."
+msgstr ""
+
+#: inc/options/woocommerce.php:346
+msgid "Display Number of Products"
+msgstr ""
+
+#: inc/options/woocommerce.php:348
+msgid "Controls the number of Related / Upsell / Cross Sell Product. "
+msgstr ""
+
+#: inc/options/woocommerce.php:354
+msgid "Related / Cross sell / Upsell Product Columns"
+msgstr ""
+
+#: inc/options/woocommerce.php:367
+msgid "Controls the Columns of Related / Upsell / Cross Sell Product columns. "
+msgstr ""
+
+#: inc/template-functions.php:236 inc/template-functions.php:337
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-functions.php:700
+msgid "Consted"
+msgstr ""
+
+#: inc/template-functions.php:706
+msgid ""
+"After import demo data, just set static homepage from settings > reading, "
+"check widgets & menus."
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:100 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid ""
+"To get all pro features of consted theme, please install the following "
+"plugins : %1$s."
+msgid_plural ""
+"To get all pro features of consted theme, please install the following "
+"plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:344
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:351
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:372
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:391
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:392
+#: inc/tgm/class-tgm-plugin-activation.php:833
+#: inc/tgm/class-tgm-plugin-activation.php:2539
+#: inc/tgm/class-tgm-plugin-activation.php:3586
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:393
+#: inc/tgm/class-tgm-plugin-activation.php:3165
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#: inc/tgm/class-tgm-plugin-activation.php:2958
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:398
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:400
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:401
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:402
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:403
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:528
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:529
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:940
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:940
+#: inc/tgm/class-tgm-plugin-activation.php:943
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:943
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1127
+#: inc/tgm/class-tgm-plugin-activation.php:2954
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1988
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2279
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2282
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2301
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2304
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2325
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2336
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2339
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2348
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2394
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2398
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2402
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2406
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2488
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2496
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2504
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2516
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2539
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2555
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2559
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2560
+msgid "Status"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2609
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2620
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2690
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2729
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2732
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2763
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2765
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2806
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2808
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2914
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2940
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3164
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3504
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3513
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+#: inc/tgm/class-tgm-plugin-activation.php:3523
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+#: inc/tgm/class-tgm-plugin-activation.php:3523
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3516
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3521
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3523
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3524
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3526
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/recommended-plugins.php:70
+msgid "Codestar Framework ( required to get pro feature )"
+msgstr ""
+
+#: inc/tgm/recommended-plugins.php:77
+msgid "Layouts for Elementor Pro"
+msgstr ""
+
+#: inc/tgm/recommended-plugins.php:90
+msgid "Sina Extension Pro for Elementor"
+msgstr ""
+
+#: inc/theme-core.php:54
+msgid "Primary"
+msgstr ""
+
+#: inc/theme-core.php:136
+msgid "Fly Sidebar"
+msgstr ""
+
+#: inc/theme-core.php:138 inc/theme-core.php:193
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/theme-core.php:148
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/theme-core.php:150
+msgid "Add widgets here for single post."
+msgstr ""
+
+#: inc/theme-core.php:160
+msgid "Homepage Slider"
+msgstr ""
+
+#: inc/theme-core.php:162
+msgid "Replace home page default slider"
+msgstr ""
+
+#: inc/theme-core.php:172
+msgid "Inner-page Hero block"
+msgstr ""
+
+#: inc/theme-core.php:174
+msgid "Replace inner page hero block"
+msgstr ""
+
+#: inc/wp-bootstrap-navwalker.php:209
+msgid "Add a menu"
+msgstr ""
+
+#: module/project/init.php:50
+msgid "Projects"
+msgstr ""
+
+#: module/project/init.php:51
+msgctxt "post type singular name"
+msgid "Projects"
+msgstr ""
+
+#: module/project/init.php:52 module/service/init.php:52
+msgctxt "consted"
+msgid "Add New"
+msgstr ""
+
+#: module/project/init.php:53
+msgid "Add New Project"
+msgstr ""
+
+#: module/project/init.php:54
+msgid "Edit Project"
+msgstr ""
+
+#: module/project/init.php:55
+msgid "New Project"
+msgstr ""
+
+#: module/project/init.php:56
+msgid "All Project"
+msgstr ""
+
+#: module/project/init.php:57
+msgid "View Project"
+msgstr ""
+
+#: module/project/init.php:58
+msgid "Search Project"
+msgstr ""
+
+#: module/project/init.php:59
+msgid "No Project found"
+msgstr ""
+
+#: module/project/init.php:60
+msgid "No Project found in the Trash"
+msgstr ""
+
+#: module/project/init.php:62
+msgid "Project"
+msgstr ""
+
+#: module/project/init.php:85
+msgctxt "consted"
+msgid "Project Category"
+msgstr ""
+
+#: module/project/init.php:86
+msgid "Search Project Categories"
+msgstr ""
+
+#: module/project/init.php:87
+msgid "All Project Categories"
+msgstr ""
+
+#: module/project/init.php:88
+msgid "Parent Project Category"
+msgstr ""
+
+#: module/project/init.php:89
+msgid "Parent Project Category:"
+msgstr ""
+
+#: module/project/init.php:90
+msgid "Edit Project Category"
+msgstr ""
+
+#: module/project/init.php:91
+msgid "Update Project Category"
+msgstr ""
+
+#: module/project/init.php:92
+msgid "Add New Project Category"
+msgstr ""
+
+#: module/project/init.php:93
+msgid "New Project Category"
+msgstr ""
+
+#: module/project/init.php:94
+msgid "Project Categories"
+msgstr ""
+
+#: module/service/init.php:50
+msgid "Services "
+msgstr ""
+
+#: module/service/init.php:51
+msgctxt "post type singular name"
+msgid "Services"
+msgstr ""
+
+#: module/service/init.php:53
+msgid "Add New Service"
+msgstr ""
+
+#: module/service/init.php:54
+msgid "Edit Service"
+msgstr ""
+
+#: module/service/init.php:55
+msgid "New Service"
+msgstr ""
+
+#: module/service/init.php:56
+msgid "All Service"
+msgstr ""
+
+#: module/service/init.php:57
+msgid "View Service"
+msgstr ""
+
+#: module/service/init.php:58
+msgid "Search Service"
+msgstr ""
+
+#: module/service/init.php:59
+msgid "No Service found"
+msgstr ""
+
+#: module/service/init.php:60
+msgid "No Service found in the Trash"
+msgstr ""
+
+#: module/service/init.php:62
+msgid "Service"
+msgstr ""
+
+#: module/service/post-meta.php:8
+msgid "Features & Gallery"
+msgstr ""
+
+#: module/service/post-meta.php:21 module/service/post-meta.php:27
+#: module/service/post-meta.php:42
+msgid "level empty to hide"
+msgstr ""
+
+#: module/service/post-meta.php:26
+msgid "Add Features List"
+msgstr ""
+
+#: module/service/post-meta.php:41
+msgid "Add Attach File"
+msgstr ""
+
+#: module/service/post-meta.php:48
+msgid "File Name"
+msgstr ""
+
+#: module/service/post-meta.php:53
+msgid "Upload File"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23
+msgid "Pages:"
+msgstr ""
+
+#: theme-updates/Puc/v4p2/Plugin/UpdateChecker.php:358
+msgid "Check for updates"
+msgstr ""
+
+#: theme-updates/Puc/v4p2/Plugin/UpdateChecker.php:405
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: theme-updates/Puc/v4p2/Plugin/UpdateChecker.php:407
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: theme-updates/Puc/v4p2/Plugin/UpdateChecker.php:409
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: theme-updates/Puc/v4p2/Vcs/PluginUpdateChecker.php:85
+msgid "There is no changelog available."
+msgstr ""
+
+#: vendors/consted/elements/accordion.php:13
+msgid "Accordion / FAQ"
+msgstr ""
+
+#: vendors/consted/elements/accordion.php:39
+#: vendors/consted/elements/count-down.php:39
+#: vendors/consted/elements/icon-button.php:39
+#: vendors/consted/elements/logo-showcase.php:39
+#: vendors/consted/elements/project-carousel.php:40
+#: vendors/consted/elements/project-sideshow.php:44
+#: vendors/consted/elements/service-box-2.php:39
+#: vendors/consted/elements/service-box.php:39
+msgid "Content"
+msgstr ""
+
+#: vendors/consted/elements/accordion.php:70
+#: vendors/consted/elements/service-box-2.php:89
+#: vendors/consted/elements/service-box.php:96
+msgid "General Contract"
+msgstr ""
+
+#: vendors/consted/elements/accordion.php:71
+#: vendors/consted/elements/accordion.php:77
+#: vendors/consted/elements/accordion.php:83
+#: vendors/consted/elements/service-box.php:97
+#: vendors/consted/elements/service-box.php:107
+#: vendors/consted/elements/service-box.php:117
+msgid ""
+"Lorem Ipsu is siply dmmyt the pring been thltext industry standard dummy "
+"text ever sice the when an unown"
+msgstr ""
+
+#: vendors/consted/elements/accordion.php:76
+#: vendors/consted/elements/service-box-2.php:99
+#: vendors/consted/elements/service-box.php:106
+msgid "Project Planning"
+msgstr ""
+
+#: vendors/consted/elements/accordion.php:82
+#: vendors/consted/elements/service-box-2.php:109
+#: vendors/consted/elements/service-box.php:116
+msgid "Interior Design"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:27
+msgid "Icon-Text Box"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:55
+msgid "Items"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:64
+#: vendors/consted/elements/athemeart-icon-box.php:203
+#: vendors/consted/elements/athemeart-price-table-2.php:76
+#: vendors/consted/elements/athemeart-price-table.php:76
+#: vendors/consted/elements/icon-button.php:54
+#: vendors/consted/elements/service-box.php:64
+msgid "Icon"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:96
+#: vendors/consted/elements/athemeart-icon-box.php:101
+#: vendors/consted/elements/athemeart-icon-box.php:106
+msgid ""
+"Lorem Ipsum has been the industry's standard dummy text ever since the "
+"unknown printer"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:97
+#: vendors/consted/elements/be-team-member.php:163
+msgid "Professional Code"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:102
+msgid "Creative Ideas"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:107
+msgid "User Friendly"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:123
+#: vendors/consted/elements/athemeart-posts.php:182
+#: vendors/consted/elements/be-team-member.php:190
+#: vendors/consted/elements/count-down.php:164
+#: vendors/consted/elements/project-carousel.php:167
+#: vendors/consted/elements/project-posts.php:182
+#: vendors/consted/elements/service-box-2.php:184
+#: vendors/consted/elements/service-box-post.php:155
+#: vendors/consted/elements/service-box.php:136
+msgid "Columns"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:130
+#: vendors/consted/elements/athemeart-posts.php:189
+#: vendors/consted/elements/athemeart-testimonials.php:217
+#: vendors/consted/elements/be-team-member.php:197
+#: vendors/consted/elements/count-down.php:171
+#: vendors/consted/elements/project-carousel.php:174
+#: vendors/consted/elements/project-posts.php:189
+#: vendors/consted/elements/service-box-2.php:191
+#: vendors/consted/elements/service-box-post.php:162
+#: vendors/consted/elements/service-box.php:143
+msgid "Columns Desktops"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:146
+#: vendors/consted/elements/athemeart-posts.php:205
+#: vendors/consted/elements/athemeart-testimonials.php:232
+#: vendors/consted/elements/be-team-member.php:213
+#: vendors/consted/elements/count-down.php:187
+#: vendors/consted/elements/project-carousel.php:190
+#: vendors/consted/elements/project-posts.php:205
+#: vendors/consted/elements/service-box-2.php:207
+#: vendors/consted/elements/service-box-post.php:178
+#: vendors/consted/elements/service-box.php:159
+msgid "Columns Tablets"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:162
+#: vendors/consted/elements/athemeart-posts.php:221
+#: vendors/consted/elements/athemeart-testimonials.php:248
+#: vendors/consted/elements/be-team-member.php:229
+#: vendors/consted/elements/count-down.php:203
+#: vendors/consted/elements/project-carousel.php:206
+#: vendors/consted/elements/project-posts.php:221
+#: vendors/consted/elements/service-box-2.php:223
+#: vendors/consted/elements/service-box-post.php:194
+#: vendors/consted/elements/service-box.php:175
+msgid "Columns Phones"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:181
+msgid "Color Settings"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:188
+#: vendors/consted/elements/count-down.php:146
+#: vendors/consted/elements/icon-button.php:95
+#: vendors/consted/elements/icon-button.php:132
+msgid "Background"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:257
+#: vendors/consted/elements/athemeart-icon-box.php:264
+#: vendors/consted/elements/heading.php:111
+#: vendors/consted/elements/section_title.php:104
+msgid "HTML Tag"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:286
+msgid "Typography"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:295
+msgid "Title Typography"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:305
+msgid "Text Typography"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:317
+#: vendors/consted/elements/athemeart-price-table.php:269
+msgid "Title Align"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-icon-box.php:325
+#: vendors/consted/elements/athemeart-price-table.php:277
+#: vendors/consted/elements/heading.php:233
+#: vendors/consted/elements/section_title.php:235
+msgid "Center"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-posts.php:17
+#: vendors/consted/includes/common-fn.php:6
+#: vendors/consted/includes/common-fn.php:26
+msgid "Choose a Category"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-posts.php:47
+msgid "Blog Posts"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-posts.php:74
+#: vendors/consted/elements/project-carousel.php:58
+#: vendors/consted/elements/project-posts.php:41
+#: vendors/consted/elements/project-sideshow.php:61
+#: vendors/consted/elements/service-box-post.php:41
+msgid "Query Settings"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-posts.php:82
+#: vendors/consted/elements/project-carousel.php:66
+#: vendors/consted/elements/project-posts.php:49
+#: vendors/consted/elements/project-sideshow.php:69
+#: vendors/consted/elements/service-box-post.php:49
+msgid "Number of Posts"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-posts.php:94
+#: vendors/consted/elements/project-carousel.php:77
+#: vendors/consted/elements/project-posts.php:60
+#: vendors/consted/elements/project-sideshow.php:80
+#: vendors/consted/elements/service-box-post.php:60
+msgid "Posts Order "
+msgstr ""
+
+#: vendors/consted/elements/athemeart-posts.php:109
+#: vendors/consted/elements/project-carousel.php:92
+#: vendors/consted/elements/project-posts.php:75
+#: vendors/consted/elements/project-sideshow.php:95
+#: vendors/consted/elements/service-box-post.php:75
+msgid "Order By"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-posts.php:120
+msgid "Category "
+msgstr ""
+
+#: vendors/consted/elements/athemeart-posts.php:132
+msgid "Excerpt"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-posts.php:134
+#: vendors/consted/elements/athemeart-posts.php:146
+#: vendors/consted/elements/athemeart-posts.php:158
+#: vendors/consted/elements/athemeart-posts.php:169
+#: vendors/consted/elements/logo-showcase.php:98
+#: vendors/consted/elements/logo-showcase.php:134
+#: vendors/consted/elements/project-posts.php:250
+#: vendors/consted/elements/project-posts.php:286
+#: vendors/consted/elements/service-box-2.php:252
+#: vendors/consted/elements/service-box-2.php:288
+#: vendors/consted/elements/service-box-post.php:223
+#: vendors/consted/elements/service-box-post.php:259
+#: vendors/consted/elements/service-box.php:262
+#: vendors/consted/elements/service-box.php:298
+msgid "Show"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-posts.php:156
+msgid "Post Author"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-posts.php:167
+msgid "Post Category"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:18
+msgid "Price Table 2"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:63
+#: vendors/consted/elements/athemeart-price-table.php:63
+msgid "Is Active?"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:67
+#: vendors/consted/elements/athemeart-price-table.php:67
+#: vendors/consted/elements/athemeart-testimonials.php:171
+#: vendors/consted/elements/athemeart-testimonials.php:183
+msgid "No"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:68
+#: vendors/consted/elements/athemeart-price-table.php:68
+#: vendors/consted/elements/athemeart-testimonials.php:170
+#: vendors/consted/elements/athemeart-testimonials.php:182
+msgid "Yes"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:90
+#: vendors/consted/elements/athemeart-price-table.php:90
+msgid "Price Box"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:98
+#: vendors/consted/elements/athemeart-price-table.php:98
+msgid "Price Prefix"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:100
+#: vendors/consted/elements/athemeart-price-table.php:100
+msgid "$"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:107
+#: vendors/consted/elements/athemeart-price-table.php:107
+msgid "Price Value"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:109
+#: vendors/consted/elements/athemeart-price-table.php:109
+msgid "19"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:116
+#: vendors/consted/elements/athemeart-price-table.php:116
+msgid "Price Suffix"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:118
+#: vendors/consted/elements/athemeart-price-table.php:118
+msgid "/per month"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:128
+#: vendors/consted/elements/athemeart-price-table.php:128
+msgid "Features"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:146
+#: vendors/consted/elements/athemeart-price-table.php:146
+msgid "Is Included?"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:150
+#: vendors/consted/elements/athemeart-price-table.php:150
+msgid "Included"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:151
+#: vendors/consted/elements/athemeart-price-table.php:151
+msgid "Excluded"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:163
+#: vendors/consted/elements/athemeart-price-table.php:163
+msgid "Feature #1"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:167
+#: vendors/consted/elements/athemeart-price-table.php:167
+msgid "Feature #2"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:171
+#: vendors/consted/elements/athemeart-price-table.php:171
+msgid "Feature #3"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:175
+#: vendors/consted/elements/athemeart-price-table.php:175
+msgid "Feature #4"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:188
+#: vendors/consted/elements/athemeart-price-table.php:188
+msgid "Action Button"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:197
+#: vendors/consted/elements/athemeart-price-table.php:197
+msgid "Purchase"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:204
+#: vendors/consted/elements/athemeart-price-table.php:204
+#: vendors/consted/elements/icon-button.php:63
+#: vendors/consted/elements/logo-showcase.php:65
+#: vendors/consted/elements/service-box-2.php:75
+#: vendors/consted/elements/service-box.php:82
+msgid "Link to"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:206
+#: vendors/consted/elements/athemeart-price-table.php:206
+#: vendors/consted/elements/icon-button.php:65
+#: vendors/consted/elements/logo-showcase.php:67
+#: vendors/consted/elements/service-box-2.php:77
+#: vendors/consted/elements/service-box.php:84
+msgid "http://your-link.com"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:216
+#: vendors/consted/elements/athemeart-price-table.php:216
+msgid "Color Scheme"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:224
+#: vendors/consted/elements/athemeart-price-table.php:224
+#: vendors/consted/elements/project-carousel.php:122
+#: vendors/consted/elements/project-posts.php:137
+#: vendors/consted/elements/project-sideshow.php:126
+#: vendors/consted/elements/service-box-2.php:139
+#: vendors/consted/elements/service-box-post.php:106
+#: vendors/consted/elements/service-box.php:201
+msgid "Primary color"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:236
+#: vendors/consted/elements/athemeart-price-table.php:236
+#: vendors/consted/elements/project-carousel.php:136
+#: vendors/consted/elements/project-posts.php:151
+#: vendors/consted/elements/project-sideshow.php:141
+#: vendors/consted/elements/service-box-2.php:152
+#: vendors/consted/elements/service-box-post.php:121
+#: vendors/consted/elements/service-box.php:216
+msgid "Secondary Color"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table-2.php:252
+#: vendors/consted/elements/athemeart-price-table.php:252
+#: vendors/consted/elements/project-carousel.php:148
+#: vendors/consted/elements/project-posts.php:163
+#: vendors/consted/elements/project-sideshow.php:157
+#: vendors/consted/elements/service-box-2.php:166
+#: vendors/consted/elements/service-box-post.php:137
+#: vendors/consted/elements/service-box.php:232
+msgid "tertiary colors"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-price-table.php:18
+msgid "Price Table"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:27
+msgid "Testimonials Carousel"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:55
+msgid "Testimonial"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:64
+msgid "Profile Picture"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:66
+#: vendors/consted/elements/athemeart-testimonials.php:78
+#: vendors/consted/elements/athemeart-testimonials.php:87
+#: vendors/consted/elements/be-team-member.php:106
+#: vendors/consted/elements/be-team-member.php:116
+#: vendors/consted/elements/be-team-member.php:126
+#: vendors/consted/elements/be-team-member.php:136
+#: vendors/consted/elements/be-team-member.php:144
+msgid "Leave empty to hide"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:76
+#: vendors/consted/elements/be-team-member.php:83
+msgid "Name"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:85
+#: vendors/consted/elements/be-team-member.php:93
+#: vendors/consted/elements/be-team-member.php:95
+msgid "Job role"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:110
+msgid ""
+"Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmod temor "
+"incididnt "
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:111
+msgid "John Doe"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:112
+msgid "Civil Engineer"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:117
+msgid ""
+"This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit "
+"auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit "
+"consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh "
+"vulputate "
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:118
+msgid "Henry Larcom"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:119
+msgid "Java Programmer"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:136
+msgid "Layout"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:143
+msgid "Box Layout"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:146
+msgid "Style 1"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:147
+msgid "Style 2"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:161
+msgid "Settings"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:168
+msgid "Pause on Hover"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:180
+msgid "Autoplay"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:192
+msgid "Autoplay Speed"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:204
+msgid "Smart Speed"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:266
+msgid "Style"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:274
+msgid "Primary Color"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:289
+msgid "Secondary colour"
+msgstr ""
+
+#: vendors/consted/elements/athemeart-testimonials.php:304
+msgid "Background Color"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:19
+msgid "Team Memeber"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:46
+msgid "Team Member"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:53
+msgid "layout"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:72
+msgid "Member Image"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:85
+msgid "John"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:103
+msgid "Email Link"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:113
+msgid "Facebook"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:123
+msgid "Twitter"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:133
+msgid "Instagram"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:142
+msgid "linkedin"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:158
+msgid "Designer"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:159
+msgid "Ann Watson"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:164
+msgid "Ben Smith"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:168
+msgid "Marketing"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:169
+msgid "Jane Doe"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:173
+msgid "Business analyst"
+msgstr ""
+
+#: vendors/consted/elements/be-team-member.php:174
+msgid "John Brown"
+msgstr ""
+
+#: vendors/consted/elements/count-down.php:13
+msgid "Countdown / Fun-Fact"
+msgstr ""
+
+#: vendors/consted/elements/count-down.php:60
+msgid "Number / Counter"
+msgstr ""
+
+#: vendors/consted/elements/count-down.php:80
+msgid "Happy Customer"
+msgstr ""
+
+#: vendors/consted/elements/count-down.php:84
+msgid "Project Complete"
+msgstr ""
+
+#: vendors/consted/elements/count-down.php:89
+msgid "Country Reached"
+msgstr ""
+
+#: vendors/consted/elements/count-down.php:94
+msgid "Awards Winning"
+msgstr ""
+
+#: vendors/consted/elements/count-down.php:106
+msgid "Layout / Style"
+msgstr ""
+
+#: vendors/consted/elements/count-down.php:109
+#: vendors/consted/elements/heading.php:99
+#: vendors/consted/elements/section_title.php:92
+msgid "Style - 1"
+msgstr ""
+
+#: vendors/consted/elements/count-down.php:110
+#: vendors/consted/elements/heading.php:100
+#: vendors/consted/elements/section_title.php:93
+msgid "Style - 2"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:13
+msgid "Section Heading"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:51
+#: vendors/consted/elements/section_title.php:49
+msgid "Enter your title"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:52
+#: vendors/consted/elements/section_title.php:50
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:59
+#: vendors/consted/elements/section_title.php:56
+msgid "Heading Top "
+msgstr ""
+
+#: vendors/consted/elements/heading.php:69
+#: vendors/consted/elements/section_title.php:78
+msgid "Heading End Or Shadow "
+msgstr ""
+
+#: vendors/consted/elements/heading.php:74
+#: vendors/consted/elements/section_title.php:81
+msgid "Enter Shadow Text"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:75
+#: vendors/consted/elements/section_title.php:82
+msgid "....."
+msgstr ""
+
+#: vendors/consted/elements/heading.php:82
+#: vendors/consted/elements/section_title.php:67
+msgid "Heading Description"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:87
+#: vendors/consted/elements/section_title.php:70
+msgid "Enter Heading Description"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:88
+#: vendors/consted/elements/section_title.php:71
+msgid "We are digital thinkers"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:96
+#: vendors/consted/elements/heading.php:119
+#: vendors/consted/elements/section_title.php:89
+#: vendors/consted/elements/section_title.php:112
+msgid "Heading Style"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:101
+#: vendors/consted/elements/section_title.php:94
+msgid "Style - 3"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:102
+msgid "Style - 4"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:122
+#: vendors/consted/elements/section_title.php:115
+msgid "Default"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:123
+#: vendors/consted/elements/section_title.php:116
+msgid "Small"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:124
+#: vendors/consted/elements/section_title.php:117
+msgid "Medium"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:125
+#: vendors/consted/elements/section_title.php:118
+msgid "Large"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:126
+#: vendors/consted/elements/section_title.php:119
+msgid "XL"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:127
+#: vendors/consted/elements/section_title.php:120
+msgid "XXL"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:135
+#: vendors/consted/elements/project-posts.php:105
+#: vendors/consted/elements/section_title.php:128
+msgid "Heading Tags"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:154
+#: vendors/consted/elements/section_title.php:147
+msgid "Heading Weight"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:162
+#: vendors/consted/elements/section_title.php:155
+msgid "Bold"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:176
+msgid "Spacing"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:205
+msgid "Description / Sub Title"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:225
+#: vendors/consted/elements/section_title.php:227
+msgid "Alignment"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:241
+#: vendors/consted/elements/section_title.php:243
+msgid "Justified"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:268
+#: vendors/consted/elements/section_title.php:270
+msgid "Heading Color"
+msgstr ""
+
+#: vendors/consted/elements/heading.php:280
+#: vendors/consted/elements/section_title.php:294
+msgid "Description Color"
+msgstr ""
+
+#: vendors/consted/elements/icon-button.php:13
+msgid "Jumbo  Button"
+msgstr ""
+
+#: vendors/consted/elements/logo-showcase.php:13
+msgid "Logo Showcase"
+msgstr ""
+
+#: vendors/consted/elements/logo-showcase.php:55
+#: vendors/consted/elements/service-box-2.php:65
+#: vendors/consted/elements/service-box.php:72
+msgid "Choose a image"
+msgstr ""
+
+#: vendors/consted/elements/logo-showcase.php:87
+#: vendors/consted/elements/logo-showcase.php:96
+#: vendors/consted/elements/project-posts.php:239
+#: vendors/consted/elements/project-posts.php:248
+#: vendors/consted/elements/service-box-2.php:241
+#: vendors/consted/elements/service-box-2.php:250
+#: vendors/consted/elements/service-box-post.php:212
+#: vendors/consted/elements/service-box-post.php:221
+#: vendors/consted/elements/service-box.php:251
+#: vendors/consted/elements/service-box.php:260
+msgid "Carousel"
+msgstr ""
+
+#: vendors/consted/elements/logo-showcase.php:108
+#: vendors/consted/elements/project-posts.php:260
+#: vendors/consted/elements/service-box-2.php:262
+#: vendors/consted/elements/service-box-post.php:233
+#: vendors/consted/elements/service-box.php:272
+msgid "Carousel Autoplay Time"
+msgstr ""
+
+#: vendors/consted/elements/logo-showcase.php:132
+#: vendors/consted/elements/project-posts.php:284
+#: vendors/consted/elements/service-box-2.php:286
+#: vendors/consted/elements/service-box-post.php:257
+#: vendors/consted/elements/service-box.php:296
+msgid "Pause on hover"
+msgstr ""
+
+#: vendors/consted/elements/project-carousel.php:13
+msgid "Project Grid Carousel"
+msgstr ""
+
+#: vendors/consted/elements/project-posts.php:13
+msgid "Project Posts"
+msgstr ""
+
+#: vendors/consted/elements/project-posts.php:125
+msgid "heading Word length"
+msgstr ""
+
+#: vendors/consted/elements/project-sideshow.php:13
+msgid "Project Side Show"
+msgstr ""
+
+#: vendors/consted/elements/section_title.php:13
+msgid "Section Title"
+msgstr ""
+
+#: vendors/consted/elements/section_title.php:168
+msgid "Heading up space "
+msgstr ""
+
+#: vendors/consted/elements/section_title.php:197
+msgid "Heading below space "
+msgstr ""
+
+#: vendors/consted/elements/section_title.php:282
+msgid "Sub-Heading Color"
+msgstr ""
+
+#: vendors/consted/elements/service-box-2.php:13
+msgid "Service Box 2"
+msgstr ""
+
+#: vendors/consted/elements/service-box-2.php:90
+#: vendors/consted/elements/service-box-2.php:100
+#: vendors/consted/elements/service-box-2.php:110
+msgid ""
+"Lorem Ipsu is siply dmmyt the pring<br>been thltext industry standard dummy "
+"text ever sice the when an unown"
+msgstr ""
+
+#: vendors/consted/elements/service-box-post.php:13
+msgid "Service Posts"
+msgstr ""
+
+#: vendors/consted/elements/service-box.php:13
+msgid "Service Box"
+msgstr ""
+
+#: vendors/consted/includes/shortcode.php:13
+msgid "Shop Now"
+msgstr ""
+
+#: vendors/consted/includes/shortcode.php:102
+msgid "All Categories "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Consted Pro"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://underscores.me/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "aThemeArt"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://athemeart.com/"
+msgstr ""

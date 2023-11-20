@@ -1,0 +1,48 @@
+version: '3'
+
+services:
+  mysql_db:
+    image: mysql:latest # image version of mysql
+    volumes:
+      - ./data_db:/var/lib/mysql # Where the data will be stored
+    environment:
+      MYSQL_ROOT_PASSWORD: admin_digital2023 # root password
+      MYSQL_DATABASE: proj_wp_shop_db # the database name (will be used to receive the wordpress tables, see below)
+      MYSQL_USER: opportunity # the username for mysql as defined by you (also used in phpMyAdmin)
+      MYSQL_PASSWORD: Opport2023 # the password for mysql db as defined by you (also used in phpMyAdmin)
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:latest # image version phpMyAdmin
+    links:
+      - mysql_db # link to mysql
+    environment:
+      VIRTUAL_HOST: projectwp.real
+      PMA_HOST: mysql_db
+      PMA_PORT: 3306
+    ports:
+      - '9000:80' # the port to access phpMyAdmin -> localhost:9000 (the last port :80 is the container port. you can leave it as is)
+
+  wordpress:
+    image: wordpress:latest # use latest version of wordpress
+    depends_on:
+      - mysql_db # dependency to mysql service
+    ports:
+      - 8080:80 # port to access wordpress -> localhost:8080 (the last number 80 is the container port. you can leave it as is)
+    environment:
+      VIRTUAL_HOST: projectwp.real
+      WORDPRESS_DB_HOST: mysql_db:3306
+      WORDPRESS_DB_USER: opportunity # needs to be the same like service.mysql_db.environment.MYSQL_USER
+      WORDPRESS_DB_PASSWORD: Opport2023 # needs to be the same like service.mysql_db.environment.MYSQL_PASSWORD
+      WORDPRESS_DB_NAME: proj_wp_shop_db # needs to be the same name as in service.mysql_db.environment.MYSQL_DATABASE
+      WORDPRESS_TABLE_PREFIX: pwr_db_ # to avoid the have the default prefix for table names 'wp_', which would be too common
+    working_dir: /var/www/html # virtual path to the container where wordpress is beeing developped
+    volumes:
+      - .:/var/www/html/ # makes the connection between the local folder and the virtual path
+      - ./config/upload.ini:/usr/local/etc/php/conf.d/uploads.ini #set upload-max-filesize to 64MB for installing plugin zip files form local
+    sysctls:
+      # Allow OS to bind 80 port to unprivileged (eg. non-root) users
+      - net.ipv4.ip_unprivileged_port_start=0
+    # Run the services as the same user as the host's one, or as user with uid 1000
+    #user: "${UID:-1000}:${UID:-1000}"
+volumes:
+  data_db:
